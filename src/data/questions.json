@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "question": "What are the latest developments in artificial intelligence that could impact job markets in 2024?",
+    "category": "Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 2,
+    "question": "How are renewable energy policies changing globally, and what are their economic implications?",
+    "category": "Environment",
+    "difficulty": "hard"
+  },
+  {
+    "id": 3,
+    "question": "What are the current trends in remote work adoption among Fortune 500 companies?",
+    "category": "Business",
+    "difficulty": "easy"
+  },
+  {
+    "id": 4,
+    "question": "How is blockchain technology being integrated into traditional banking systems?",
+    "category": "Finance",
+    "difficulty": "medium"
+  },
+  {
+    "id": 5,
+    "question": "What are the emerging cybersecurity threats that organizations should prepare for in 2024?",
+    "category": "Security",
+    "difficulty": "hard"
+  },
+  {
+    "id": 6,
+    "question": "How are social media platforms adapting their algorithms to combat misinformation?",
+    "category": "Technology",
+    "difficulty": "medium"
+  },
+  {
+    "id": 7,
+    "question": "What are the latest breakthrough treatments in personalized medicine?",
+    "category": "Healthcare",
+    "difficulty": "hard"
+  },
+  {
+    "id": 8,
+    "question": "How is electric vehicle adoption affecting traditional automotive manufacturing?",
+    "category": "Transportation",
+    "difficulty": "medium"
+  }
+]
